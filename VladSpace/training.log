@@ -1,0 +1,39 @@
+2024-12-05 13:57:18,491 - Engine run starting with max_epochs=1.
+2024-12-05 13:57:35,367 - Epoch[1] Complete. Time taken: 00:00:16.875
+2024-12-05 13:57:35,367 - Engine run complete. Time taken: 00:00:16.875
+2024-12-05 13:57:35,368 - Epoch 1: Train Loss: 2.6786, Train Accuracy: 0.1951, Validation Loss: 2.5155, Validation Accuracy: 0.2102
+2024-12-05 13:57:35,371 - Engine run is terminating due to exception: name 'handler' is not defined
+2024-12-05 13:58:58,318 - Engine run starting with max_epochs=10.
+2024-12-05 13:59:09,462 - Engine run is terminating due to exception: 
+2024-12-05 13:59:28,259 - Engine run starting with max_epochs=10.
+2024-12-05 14:02:08,886 - Engine run starting with max_epochs=1.
+2024-12-05 14:02:25,702 - Epoch[1] Complete. Time taken: 00:00:16.816
+2024-12-05 14:02:25,702 - Engine run complete. Time taken: 00:00:16.816
+2024-12-05 14:02:25,703 - Epoch 1: Train Loss: 2.6786, Train Accuracy: 0.1951, Validation Loss: 2.5155, Validation Accuracy: 0.2102
+2024-12-05 14:02:26,314 - Engine run is terminating due to exception: [WinError 32] The process cannot access the file because it is being used by another process: 'c:\\Projects\\Python\\CV_project_yandex\\VladSpace\\train_info\\checkpoints_5_12_13_59\\tmpr0ip_lxh' -> 'train_info\\checkpoints_5_12_13_59\\best_checkpoint_1_val_accuracy=0.2102.pt'
+2024-12-05 20:13:31,736 - Engine run starting with max_epochs=10.
+2024-12-05 20:16:19,177 - Engine run starting with max_epochs=1.
+2024-12-05 20:16:36,550 - Epoch[1] Complete. Time taken: 00:00:17.372
+2024-12-05 20:16:36,550 - Engine run complete. Time taken: 00:00:17.372
+2024-12-05 20:16:36,550 - Epoch 1: Train Loss: 2.6786, Train Accuracy: 0.1951, Validation Loss: 2.5155, Validation Accuracy: 0.2102
+2024-12-05 20:16:37,190 - Epoch[1] Complete. Time taken: 00:03:05.452
+2024-12-05 20:19:20,644 - Engine run starting with max_epochs=1.
+2024-12-05 20:19:37,636 - Epoch[1] Complete. Time taken: 00:00:16.992
+2024-12-05 20:19:37,636 - Engine run complete. Time taken: 00:00:16.992
+2024-12-05 20:19:37,636 - Epoch 2: Train Loss: 2.5359, Train Accuracy: 0.2022, Validation Loss: 2.4889, Validation Accuracy: 0.2037
+2024-12-05 20:19:38,288 - Epoch[2] Complete. Time taken: 00:03:01.099
+2024-12-05 20:19:45,511 - Engine run is terminating due to exception: 
+2024-12-05 20:20:02,905 - Engine run starting with max_epochs=10.
+2024-12-05 20:22:45,225 - Engine run starting with max_epochs=1.
+2024-12-05 20:23:02,539 - Epoch[1] Complete. Time taken: 00:00:17.313
+2024-12-05 20:23:02,539 - Engine run complete. Time taken: 00:00:17.313
+2024-12-05 20:23:02,540 - Epoch 1: Train Loss: 2.6786, Train Accuracy: 0.1951, Validation Loss: 2.5155, Validation Accuracy: 0.2102
+2024-12-05 20:23:02,542 - Engine run is terminating due to exception: save() got an unexpected keyword argument 'tmp_dir'
+2024-12-05 20:23:39,845 - Engine run starting with max_epochs=10.
+2024-12-05 20:26:22,674 - Engine run starting with max_epochs=1.
+2024-12-05 20:26:39,906 - Epoch[1] Complete. Time taken: 00:00:17.232
+2024-12-05 20:26:39,906 - Engine run complete. Time taken: 00:00:17.232
+2024-12-05 20:26:39,906 - Epoch 1: Train Loss: 2.6786, Train Accuracy: 0.1951, Validation Loss: 2.5155, Validation Accuracy: 0.2102
+2024-12-05 20:26:40,632 - Epoch[1] Complete. Time taken: 00:03:00.786
+2024-12-05 20:27:01,815 - Engine run is terminating due to exception: 
+2024-12-05 20:27:23,491 - Engine run starting with max_epochs=10.
