@@ -1,0 +1,8 @@
+2024-12-14 19:08:07,287 - Engine run starting with max_epochs=2.
+2024-12-14 19:09:36,822 - Engine run starting with max_epochs=1.
+2024-12-14 19:09:42,802 - Epoch[1] Complete. Time taken: 00:00:05.931
+2024-12-14 19:09:42,802 - Engine run complete. Time taken: 00:00:05.979
+2024-12-14 19:09:42,819 - Epoch 1: Train Loss: 2.6239, Train Accuracy: 0.2032, Validation Loss: 2.5140, Validation Accuracy: 0.2322
+2024-12-14 19:09:42,998 - Epoch 1: Learning Rate: 0.001000, Weight Decay: 0.0001
+2024-12-14 19:09:42,998 - Epoch[1] Complete. Time taken: 00:01:35.671
+2024-12-14 19:10:43,335 - Engine run is terminating due to exception: 

@@ -1,0 +1,86 @@
+2024-12-14 18:21:37,371 - Engine run starting with max_epochs=14.
+2024-12-14 18:23:11,058 - Engine run starting with max_epochs=1.
+2024-12-14 18:23:16,954 - Epoch[1] Complete. Time taken: 00:00:05.841
+2024-12-14 18:23:16,954 - Engine run complete. Time taken: 00:00:05.895
+2024-12-14 18:23:16,972 - Epoch 1: Train Loss: 2.6072, Train Accuracy: 0.2146, Validation Loss: 2.4750, Validation Accuracy: 0.2621
+2024-12-14 18:23:17,229 - Epoch 1: Learning Rate: 0.001000, Weight Decay: 0.0001
+2024-12-14 18:23:17,230 - Epoch[1] Complete. Time taken: 00:01:39.819
+2024-12-14 18:24:50,542 - Engine run starting with max_epochs=1.
+2024-12-14 18:24:56,403 - Epoch[1] Complete. Time taken: 00:00:05.814
+2024-12-14 18:24:56,403 - Engine run complete. Time taken: 00:00:05.860
+2024-12-14 18:24:56,421 - Epoch 2: Train Loss: 2.4182, Train Accuracy: 0.2784, Validation Loss: 2.3106, Validation Accuracy: 0.3269
+2024-12-14 18:24:56,545 - Epoch 2: Learning Rate: 0.001000, Weight Decay: 0.0001
+2024-12-14 18:24:56,545 - Epoch[2] Complete. Time taken: 00:01:39.315
+2024-12-14 18:26:29,845 - Engine run starting with max_epochs=1.
+2024-12-14 18:26:35,732 - Epoch[1] Complete. Time taken: 00:00:05.841
+2024-12-14 18:26:35,732 - Engine run complete. Time taken: 00:00:05.887
+2024-12-14 18:26:35,753 - Epoch 3: Train Loss: 2.2694, Train Accuracy: 0.3335, Validation Loss: 2.1936, Validation Accuracy: 0.3592
+2024-12-14 18:26:35,878 - Epoch 3: Learning Rate: 0.001000, Weight Decay: 0.0001
+2024-12-14 18:26:35,878 - Epoch[3] Complete. Time taken: 00:01:39.333
+2024-12-14 18:28:08,868 - Engine run starting with max_epochs=1.
+2024-12-14 18:28:14,698 - Epoch[1] Complete. Time taken: 00:00:05.784
+2024-12-14 18:28:14,698 - Engine run complete. Time taken: 00:00:05.830
+2024-12-14 18:28:14,718 - Epoch 4: Train Loss: 2.1695, Train Accuracy: 0.3726, Validation Loss: 2.1191, Validation Accuracy: 0.3924
+2024-12-14 18:28:14,853 - Epoch 4: Learning Rate: 0.001000, Weight Decay: 0.0001
+2024-12-14 18:28:14,854 - Epoch[4] Complete. Time taken: 00:01:38.975
+2024-12-14 18:29:47,973 - Engine run starting with max_epochs=1.
+2024-12-14 18:29:53,970 - Epoch[1] Complete. Time taken: 00:00:05.950
+2024-12-14 18:29:53,970 - Engine run complete. Time taken: 00:00:05.997
+2024-12-14 18:29:53,992 - Epoch 5: Train Loss: 2.0503, Train Accuracy: 0.4146, Validation Loss: 2.0497, Validation Accuracy: 0.4296
+2024-12-14 18:29:54,136 - Epoch 5: Learning Rate: 0.001000, Weight Decay: 0.0001
+2024-12-14 18:29:54,136 - Epoch[5] Complete. Time taken: 00:01:39.283
+2024-12-14 18:31:27,565 - Engine run starting with max_epochs=1.
+2024-12-14 18:31:33,470 - Epoch[1] Complete. Time taken: 00:00:05.858
+2024-12-14 18:31:33,470 - Engine run complete. Time taken: 00:00:05.906
+2024-12-14 18:31:33,489 - Epoch 6: Train Loss: 1.9082, Train Accuracy: 0.4760, Validation Loss: 1.9080, Validation Accuracy: 0.4862
+2024-12-14 18:31:33,628 - Epoch 6: Learning Rate: 0.001000, Weight Decay: 0.0001
+2024-12-14 18:31:33,629 - Epoch[6] Complete. Time taken: 00:01:39.492
+2024-12-14 18:33:07,535 - Engine run starting with max_epochs=1.
+2024-12-14 18:33:13,463 - Epoch[1] Complete. Time taken: 00:00:05.881
+2024-12-14 18:33:13,463 - Engine run complete. Time taken: 00:00:05.928
+2024-12-14 18:33:13,485 - Epoch 7: Train Loss: 1.7563, Train Accuracy: 0.5452, Validation Loss: 1.8064, Validation Accuracy: 0.5291
+2024-12-14 18:33:13,624 - Epoch 7: Learning Rate: 0.001000, Weight Decay: 0.0001
+2024-12-14 18:33:13,624 - Epoch[7] Complete. Time taken: 00:01:39.995
+2024-12-14 18:34:46,869 - Engine run starting with max_epochs=1.
+2024-12-14 18:34:52,754 - Epoch[1] Complete. Time taken: 00:00:05.838
+2024-12-14 18:34:52,755 - Engine run complete. Time taken: 00:00:05.885
+2024-12-14 18:34:52,773 - Epoch 8: Train Loss: 1.5871, Train Accuracy: 0.6147, Validation Loss: 1.7547, Validation Accuracy: 0.5607
+2024-12-14 18:34:52,910 - Epoch 8: Learning Rate: 0.001000, Weight Decay: 0.0001
+2024-12-14 18:34:52,910 - Epoch[8] Complete. Time taken: 00:01:39.286
+2024-12-14 18:36:26,328 - Engine run starting with max_epochs=1.
+2024-12-14 18:36:32,272 - Epoch[1] Complete. Time taken: 00:00:05.898
+2024-12-14 18:36:32,272 - Engine run complete. Time taken: 00:00:05.944
+2024-12-14 18:36:32,291 - Epoch 9: Train Loss: 1.4084, Train Accuracy: 0.6888, Validation Loss: 1.6602, Validation Accuracy: 0.6076
+2024-12-14 18:36:32,430 - Epoch 9: Learning Rate: 0.001000, Weight Decay: 0.0001
+2024-12-14 18:36:32,431 - Epoch[9] Complete. Time taken: 00:01:39.520
+2024-12-14 18:38:05,843 - Engine run starting with max_epochs=1.
+2024-12-14 18:38:11,741 - Epoch[1] Complete. Time taken: 00:00:05.853
+2024-12-14 18:38:11,742 - Engine run complete. Time taken: 00:00:05.898
+2024-12-14 18:38:11,763 - Epoch 10: Train Loss: 1.2405, Train Accuracy: 0.7610, Validation Loss: 1.6538, Validation Accuracy: 0.6189
+2024-12-14 18:38:11,904 - Epoch 10: Learning Rate: 0.001000, Weight Decay: 0.0001
+2024-12-14 18:38:11,904 - Epoch[10] Complete. Time taken: 00:01:39.473
+2024-12-14 18:39:44,653 - Engine run starting with max_epochs=1.
+2024-12-14 18:39:50,758 - Epoch[1] Complete. Time taken: 00:00:06.058
+2024-12-14 18:39:50,759 - Engine run complete. Time taken: 00:00:06.105
+2024-12-14 18:39:50,783 - Epoch 11: Train Loss: 1.0807, Train Accuracy: 0.8315, Validation Loss: 1.6111, Validation Accuracy: 0.6464
+2024-12-14 18:39:50,920 - Epoch 11: Learning Rate: 0.001000, Weight Decay: 0.0001
+2024-12-14 18:39:50,920 - Epoch[11] Complete. Time taken: 00:01:39.016
+2024-12-14 18:41:23,584 - Engine run starting with max_epochs=1.
+2024-12-14 18:41:29,574 - Epoch[1] Complete. Time taken: 00:00:05.945
+2024-12-14 18:41:29,574 - Engine run complete. Time taken: 00:00:05.990
+2024-12-14 18:41:29,597 - Epoch 12: Train Loss: 0.9562, Train Accuracy: 0.8871, Validation Loss: 1.6553, Validation Accuracy: 0.6440
+2024-12-14 18:41:29,851 - Epoch 12: Learning Rate: 0.001000, Weight Decay: 0.0001
+2024-12-14 18:41:29,852 - Epoch[12] Complete. Time taken: 00:01:38.931
+2024-12-14 18:43:02,413 - Engine run starting with max_epochs=1.
+2024-12-14 18:43:08,256 - Epoch[1] Complete. Time taken: 00:00:05.796
+2024-12-14 18:43:08,256 - Engine run complete. Time taken: 00:00:05.842
+2024-12-14 18:43:08,276 - Epoch 13: Train Loss: 0.8617, Train Accuracy: 0.9305, Validation Loss: 1.6413, Validation Accuracy: 0.6448
+2024-12-14 18:43:08,413 - Epoch 13: Learning Rate: 0.001000, Weight Decay: 0.0001
+2024-12-14 18:43:08,414 - Epoch[13] Complete. Time taken: 00:01:38.562
+2024-12-14 18:44:40,769 - Engine run starting with max_epochs=1.
+2024-12-14 18:44:46,717 - Epoch[1] Complete. Time taken: 00:00:05.902
+2024-12-14 18:44:46,718 - Engine run complete. Time taken: 00:00:05.948
+2024-12-14 18:44:46,737 - Epoch 14: Train Loss: 0.8028, Train Accuracy: 0.9554, Validation Loss: 1.6110, Validation Accuracy: 0.6683
+2024-12-14 18:44:46,876 - Epoch 14: Learning Rate: 0.001000, Weight Decay: 0.0001
+2024-12-14 18:44:46,876 - Epoch[14] Complete. Time taken: 00:01:38.463
+2024-12-14 18:44:46,876 - Engine run complete. Time taken: 00:23:09.505
